@@ -103,9 +103,4 @@ pip install pandas numpy scikit-learn matplotlib nltk
 ## Contributing
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust any section to better match your project's specifics or preferences.
