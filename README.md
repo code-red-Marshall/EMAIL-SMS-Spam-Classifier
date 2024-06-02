@@ -2,6 +2,9 @@
 
 # SMS/Email Classifier
 
+![Designer (1)](https://github.com/code-red-Marshall/EMAIL-SMS-Spam-Classifier/assets/82904501/dbf6f976-3ab3-4314-9b21-5046c7966e2e)
+
+
 Streamlit app link: https://email-sms-spam-classifier-erf7teejfi7xyzdy8ejsml.streamlit.app/
 
 This repository contains a Jupyter Notebook that demonstrates the process of building an SMS/Email classifier. The classifier can distinguish between spam and non-spam messages using various machine learning techniques.
