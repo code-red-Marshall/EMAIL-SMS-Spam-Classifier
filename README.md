@@ -2,6 +2,8 @@
 
 # SMS/Email Classifier
 
+Streamlit app link: https://email-sms-spam-classifier-erf7teejfi7xyzdy8ejsml.streamlit.app/
+
 This repository contains a Jupyter Notebook that demonstrates the process of building an SMS/Email classifier. The classifier can distinguish between spam and non-spam messages using various machine learning techniques.
 
 ## Table of Contents
