@@ -1,6 +1,4 @@
-Sure, I can create a README that summarizes the steps in words and mentions the technology stack used. Here it is:
 
----
 
 # SMS/Email Classifier
 
